@@ -10,22 +10,32 @@ Data Cleaning: Handling null values, removing duplicates, and transforming colum
 
 Exploratory Data Analysis (EDA):
 1. Distribution of content types (Movies vs. TV Shows)
+   
 2. Rating distributions across genres and types.
+   
 3. Country-based content analysis.
+   
 4. Trends in release dates and monthly/annual distributions.
 
 Data Visualization: Creating charts to visualize trends in Netflix content, including top-rated genres, monthly and yearly release trends, and top directors.
+
 Feature Engineering: Adding features for in-depth analysis, such as content duration and genre counts.
+
 Recommendation System: A content-based recommendation system to suggest similar shows or movies using cosine similarity.
 
 Files in the Repository: 
+
 netflix1.csv: The dataset file containing Netflix content information.
+
 Netflix_Project-1.ipynb: Jupyter notebook containing the full analysis, data cleaning, feature engineering, visualization, and recommendation code.
 
 Key Findings:
 Content Distribution: Majority of Netflix’s offerings are movies, with a significant portion targeted at mature audiences (TV-MA, TV-14 ratings).
+
 Country Insights: The U.S. has the highest content production, followed by India and the UK.
+
 Seasonal Trends: Certain months show higher content release volumes, especially around fall and winter.
+
 Recommendation System: Using content-based filtering, users can find similar shows/movies based on genre, country, and rating attributes.
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
